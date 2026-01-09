@@ -17,6 +17,7 @@ P-value: 0.000 (less than 0.001)
 Interpretation: Very strong negative correlation that is statistically significant.
 
 Visualization
-https://correlation_plot.png
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/71a4d1e2-04a3-425b-b4f6-4cbde8f21032" />
 
 The scatter plot shows all points closely follow a downward trend line, confirming the strong negative correlation.
