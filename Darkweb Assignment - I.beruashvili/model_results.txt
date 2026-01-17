@@ -1,0 +1,30 @@
+Label 1 Accuracy: 0.9620
+Label 1 Classification Report:
+              precision    recall  f1-score   support
+
+     Non-Tor       0.99      1.00      1.00     22089
+      NonVPN       0.90      0.86      0.88      4773
+         Tor       0.97      0.86      0.91       278
+         VPN       0.87      0.90      0.88      4584
+
+    accuracy                           0.96     31724
+   macro avg       0.93      0.91      0.92     31724
+weighted avg       0.96      0.96      0.96     31724
+
+==================================================
+Label 2 Accuracy: 0.8286
+Label 2 Classification Report:
+                 precision    recall  f1-score   support
+
+AUDIO-STREAMING       0.79      0.77      0.78      4270
+       BROWSING       0.86      0.96      0.91      9292
+           CHAT       0.56      0.83      0.67      2326
+          EMAIL       0.71      0.18      0.29      1229
+  FILE-TRANSFER       0.70      0.62      0.66      2237
+            P2P       0.97      0.99      0.98      9704
+VIDEO-STREAMING       0.61      0.40      0.48      1953
+           VOIP       0.79      0.16      0.27       713
+
+       accuracy                           0.83     31724
+      macro avg       0.75      0.61      0.63     31724
+   weighted avg       0.83      0.83      0.81     31724
